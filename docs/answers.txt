@@ -1,1 +1,10 @@
+Date(s) I completed Learn Git Branching:
+March 2, 2026
+
+Date(s) I tried Visualizing Git commands:
+March 2, 2026
+
+Date I looked at an extra Git tutorial from try.github.io:
+March 2, 2026
+
 
